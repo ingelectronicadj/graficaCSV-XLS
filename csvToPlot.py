@@ -1,3 +1,7 @@
+""" Autor : Diego Javier Mena Amado
+Este es un comentario multilinea. La
+obra se muestra con licencia MIT para
+el reconocimiento Attribution-Share alike)"""
 import matplotlib.pyplot as plt
 import csv
 import datetime as dt
